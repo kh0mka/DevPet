@@ -16,8 +16,10 @@
 1. [Что такое Ansible?](wiki/ansible.md)
 1. [Что такое Terraform?](wiki/terraform.md)
 1. [Что такое AWS / Cloud Providers?](wiki/aws-cloud-providers.md)
+1. [Что такое Kubernetes (K8S)?](wiki/k8s.md)
 1. [О сайте](about.md)
 
 ## Полезные ссылки
 
 - Веб-приложение, которое поможет понять Linux-команды, **Explain Shell** [(ссылка)](https://explainshell.com/).
+- Кастомная страница в случае **статус-кода 404** [(ссылка)](wiki/testError).
