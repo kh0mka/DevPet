@@ -8,14 +8,14 @@
 
 ## Wiki-страницы
 
-1. [Что такое Linux?](pages/page1.md)
-1. [Что такое Git?](pages/page2.md)
-1. [Что такое Docker?](pages/page3.md)
-1. [Что такое Docker Compose?](pages/page3.md)
-1. [Что такое CI/CD?](pages/page3.md)
-1. [Что такое Ansible?](pages/page3.md)
-1. [Что такое Terraform?](pages/page3.md)
-1. [Что такое AWS / Cloud Providers?](pages/page3.md)
+1. [Что такое Linux?](wiki/linux.md)
+1. [Что такое Git?](wiki/git.md)
+1. [Что такое Docker?](wiki/docker.md)
+1. [Что такое Docker Compose?](wiki/docker-compose.md)
+1. [Что такое CI/CD?](wiki/ci-cd.md)
+1. [Что такое Ansible?](wiki/ansible.md)
+1. [Что такое Terraform?](wiki/terraform.md)
+1. [Что такое AWS / Cloud Providers?](wiki/aws-cloud-providers.md)
 1. [О сайте](about.md)
 
 ## Полезные ссылки
