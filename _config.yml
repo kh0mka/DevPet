@@ -1,0 +1,18 @@
+title: DevPet Wiki
+author:
+  name: kh0mka (khomenokk)
+  email: "kirya.khomenok@mail.ru"
+
+description: >
+  Вики-страница, созданная с использованием Markdown
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+  navigation: []
+
+social_links:
+  - title: DevPet Wiki Repository GitHub
+    icon: github
+    url: "https://github.com/kh0mka/DevPet/tree/web"
