@@ -12,12 +12,9 @@ minima:
   skin: dark
 
 social_links:
-  - title: DevPet Wiki Web Repository GitHub
-    icon: fa-github
+  - title: DevPet GitHub Web Repository
+    icon: github
     url: "https://github.com/kh0mka/DevPet/tree/web"
-  - title: Author of Project DevPet
-    icon: fa-github
-    url: "https://github.com/kh0mka/"
-  - title: Telegram of Developer
-    icon: fa-telegram
-    url: "https://t.me/xkhomenok"
+  - title: Telegram
+    icon: telegram
+    url: "https://t.me/"
