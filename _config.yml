@@ -10,7 +10,6 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
-  navigation: []
 
 social_links:
   - title: DevPet Wiki Web Repository GitHub
