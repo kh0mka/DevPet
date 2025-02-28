@@ -13,6 +13,12 @@ minima:
   navigation: []
 
 social_links:
-  - title: DevPet Wiki Repository GitHub
-    icon: github
+  - title: DevPet Wiki Web Repository GitHub
+    icon: fa-github
     url: "https://github.com/kh0mka/DevPet/tree/web"
+  - title: Author of Project DevPet
+    icon: fa-github
+    url: "https://github.com/kh0mka/"
+  - title: Telegram of Developer
+    icon: fa-telegram
+    url: https://t.me/xkhomenok
